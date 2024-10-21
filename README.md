@@ -12,7 +12,7 @@ Bem-vindo ao Serenatto, uma experiência única em café e design! Este projeto 
 
 *Label Flutuante*: Labels que flutuam para fornecer uma experiência de preenchimento de formulários mais intuitiva.
 
-*Formulários*: Formulários de contato e pedidos com validação.
+*Formulários*: Formulários de contato.
 
 
 ## Tecnologias Utilizadas
